@@ -1,6 +1,6 @@
 ### Olá!! Eu sou  o João Mello
 
-- 💼 Atualmente sou estagiário de desenvolvimento web full stack na empresa Gama Soluções.
+- 💼 Atualmente sou estagiário de desenvolvimento web full stack na empresa Moovefy.
 - 📚 Sou estudante de Ciência da Computação na instituição Unisagrado
 
 
